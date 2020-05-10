@@ -7,7 +7,7 @@ public class ArrayListConcepts {
 	static{
 		
 		System.out.println("Static" );
-		
+		 
 	}
 
 	public static void main(String[] args) {
